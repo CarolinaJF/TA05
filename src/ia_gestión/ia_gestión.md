@@ -1,3 +1,5 @@
+[**Tornar al index**](../../index.md){: .btn .btn-primary .float-right}
+
 # Gestión de la Seguridad
 
 **Cylance** es una innovadora solución de ciberseguridad que utiliza inteligencia artificial (IA) para prevenir ataques antes de que ocurran, estableciendo un nuevo estándar en la protección de sistemas. A diferencia de las tecnologías tradicionales que dependen de la detección de firmas conocidas, Cylance emplea algoritmos avanzados de aprendizaje automático para identificar y bloquear amenazas, incluso aquellas inéditas, como ataques Zero-Day. Su enfoque predictivo permite proteger endpoints y redes de manera eficaz, brindando a las organizaciones una herramienta poderosa para anticiparse a los riesgos en un panorama de ciberamenazas en constante evolución.
@@ -24,6 +26,5 @@
 ## Propuestas para minimizar el impacto ambiental
 
 - **Optimització d'algorismes**:
-- **Ús de centres de dades sostenibles**:
 
-[Index](../../index.md)
+[**Tornar al index**](../../index.md){: .btn .btn-primary .float-right}
