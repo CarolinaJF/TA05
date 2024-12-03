@@ -2,7 +2,7 @@
 
 # Soporte Técnico
 
-**Cylance** es una innovadora solución de ciberseguridad que utiliza inteligencia artificial (IA) para prevenir ataques antes de que ocurran, estableciendo un nuevo estándar en la protección de sistemas. A diferencia de las tecnologías tradicionales que dependen de la detección de firmas conocidas, Cylance emplea algoritmos avanzados de aprendizaje automático para identificar y bloquear amenazas, incluso aquellas inéditas, como ataques Zero-Day. Su enfoque predictivo permite proteger endpoints y redes de manera eficaz, brindando a las organizaciones una herramienta poderosa para anticiparse a los riesgos en un panorama de ciberamenazas en constante evolución.
+**AWS AIOps** es una innovadora solución de ciberseguridad que utiliza inteligencia artificial (IA) para prevenir ataques antes de que ocurran, estableciendo un nuevo estándar en la protección de sistemas. A diferencia de las tecnologías tradicionales que dependen de la detección de firmas conocidas, Cylance emplea algoritmos avanzados de aprendizaje automático para identificar y bloquear amenazas, incluso aquellas inéditas, como ataques Zero-Day. Su enfoque predictivo permite proteger endpoints y redes de manera eficaz, brindando a las organizaciones una herramienta poderosa para anticiparse a los riesgos en un panorama de ciberamenazas en constante evolución.
 
 ![Imagen](./images/logo2.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
