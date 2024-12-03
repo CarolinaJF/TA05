@@ -4,24 +4,26 @@
 
 ![Imagen](./images/logo2.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
-## Aplicacions de la IA (Gestió)
+## Aplicaciones
 
 - **Detecció de fraus**:
 - **Anàlisi de vulnerabilitats**:
 - **Autenticació biomètrica**:
 
-## Impacte al sector (Gestió)
+## Impacto al sector
 
 - **Millora de la seguretat**:
 - **Reducció de les amenaces cibernètiques**:
 - **Automatització de processos de seguretat**:
 
-## Impacte ambiental (Gestió)
+## Impacto ambiental
 
 - **Costos energètics**:
 - **Generació de CO2**:
 
-## Propostes per minimitzar els impactes ambientals (Gestió)
+## Propuestas para minimizar el impacto ambiental
 
 - **Optimització d'algorismes**:
 - **Ús de centres de dades sostenibles**:
+
+[Index](../../index.md)
