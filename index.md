@@ -4,11 +4,11 @@ Aquest manual presenta una visió general sobre les aplicacions de la Intel·lig
 
 ## Índex
 
-1. [Xarxes](#xarxes)
-2. [Gestió de la Seguretat](#gestió-de-la-seguretat)
-3. [Suport Tècnic](#suport-tècnic)
-4. [Anàlisis de Dades](#anàlisis-de-dades)
-5. [Desenvolupament](#desenvolupament)
+1. [Xarxes](./src/ia_redes/ia_redes.md)
+2. [Gestió de la Seguretat](./src/ia_gestión/ia_gestión.md)
+3. [Suport Tècnic](./src/ia_soporte/ia_soporte.md)
+4. [Anàlisis de Dades](./src/ia_análisis/ia_análisis.md)
+5. [Desenvolupament](./src/ia_desarrollo/ia_desarrollo.md)
 
 ---
 
