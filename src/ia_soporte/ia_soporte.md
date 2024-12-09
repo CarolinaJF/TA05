@@ -1,4 +1,4 @@
-[**Volver al index**](../../README.md){: .btn .btn-primary .float-right}
+[**Índice**](../../index.md){: .btn .btn-primary .float-right}
 
 # Soporte Técnico
 
@@ -16,6 +16,8 @@ Originalmente centrada en la gestión de servicios de TI, ServiceNow se ha expan
 Permite a los usuarios realizar solicitudes de servicios (como la provisión de hardware o software) o crear incidencias para reportar malfuncionamiento de aplicaciones y hacer un seguimiento de su estado.
 
 **ServiceNow Virtual Agent**  es una plataforma de chatbots basada en inteligencia artificial (IA) que se integra dentro del ecosistema de ServiceNow. El Virtual Agent de ServiceNow permite a las organizaciones ofrecer soporte automatizado a través de conversaciones en lenguaje natural, mejorando la experiencia del usuario y reduciendo la carga de trabajo para los equipos de soporte humano.
+
+![Imagen](./images/imagen1snow.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ## Aplicaciones
 
@@ -38,4 +40,4 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 
 - **Optimització d'algorismes**:
 
-[**Volver al indice**](../../README.md){: .btn .btn-primary .float-right}
+[**Índice**](../../index.md){: .btn .btn-primary .float-right}
