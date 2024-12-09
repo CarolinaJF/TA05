@@ -8,7 +8,6 @@ Los chatbots y asistentes virtuales impulsados ​​por IA pueden brindar sopor
 
 **IA para la gestión de servicios:** la IA puede mejorar la gestión de servicios de IT (ITSM) al automatizar tareas rutinarias y brindar información inteligente. Por ejemplo, los chatbots con tecnología de IA pueden manejar consultas rutinarias de los clientes, lo que libera a los agentes del helpdesk para que se concentren en problemas más complejos. El análisis predictivo puede ayudar a anticipar problemas, crear alertas para el cliente y automatizar respuestas, lo que mejora la calidad del servicio y la satisfacción del cliente.
 
-![Imagen](./images/logosnow.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 **ServiceNow** es una plataforma en la nube que ofrece soluciones para la gestión de servicios de soporte técnico (ITSM, por sus siglas en inglés: IT Service Management). Está diseñada para automatizar y optimizar procesos empresariales y de TI, proporcionando una única plataforma que conecta todos los departamentos y flujos de trabajo dentro de una organización.
 
