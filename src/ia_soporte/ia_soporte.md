@@ -1,4 +1,4 @@
-[**Tornar al index**](../../index.md){: .btn .btn-primary .float-right}
+[**Volver al index**](../../README.md){: .btn .btn-primary .float-right}
 
 # Soporte Técnico
 
@@ -38,4 +38,4 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 
 - **Optimització d'algorismes**:
 
-[**Tornar al index**](../../index.md){: .btn .btn-primary .float-right}
+[**Volver al indice**](../../README.md){: .btn .btn-primary .float-right}
