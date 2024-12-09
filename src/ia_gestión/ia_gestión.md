@@ -3,8 +3,9 @@
 # Cylance
 
 **Cylance** es una innovadora solución de ciberseguridad que utiliza inteligencia artificial (IA) para prevenir ataques antes de que ocurran, estableciendo un nuevo estándar en la protección de sistemas. A diferencia de las tecnologías tradicionales que dependen de la detección de firmas conocidas, Cylance emplea algoritmos avanzados de aprendizaje automático para identificar y bloquear amenazas, incluso aquellas inéditas, como ataques Zero-Day. Su enfoque predictivo permite proteger endpoints y redes de manera eficaz, brindando a las organizaciones una herramienta poderosa para anticiparse a los riesgos en un panorama de ciberamenazas en constante evolución.
-
 ![Imagen](./images/logo2.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+
+---
 
 ## Aplicaciones
 
@@ -37,6 +38,8 @@
 - En lugar de depender de patrones de código fijos, Cylance analiza las características fundamentales de los archivos.
 - Evalúa vectores de ataque y estrategias comunes para detener amenazas camufladas.
 
+---
+
 ## Impacto al sector
 
 **Reducción de costos y optimización de recursos:** minimizar la carga de trabajo de los equipos de TI al automatizar la detección y mitigación de amenazas. Automizando la respuesta de los incidentes, como cuarentena de archivos maliciosos y aislamiento de dispositivos infectados. Como opera con baja huella de recursos no relentiza los sistemas.
@@ -51,8 +54,18 @@
 
 **Mayor preparación ante regulaciones futuras:** ayuda a las organizaciones a anticiparse a cambios en normativas de seguridad mediante una protección robusta y auditable.
 
+---
+
 ## Impacto ambiental
 
+El uso de la IA Cylance puede tener un impacto ambiental significativo, especialmente debido al consumo energético que supone mantenerla activa. Esta inteligencia artificial necesita servidores y sistemas de alto rendimiento que trabajan de forma continua, lo que implica un alto gasto de electricidad. Si esta energía proviene de fuentes no renovables, se generan emisiones de CO₂ que contribuyen al cambio climático.
+
+Además, el funcionamiento prolongado de estas tecnologías puede acelerar el desgaste de hardware, lo que conlleva una mayor generación de residuos electrónicos. Estos desechos, si no se gestionan adecuadamente, pueden contaminar el suelo y el agua.
+
+---
+
 ## Propuestas para minimizar el impacto ambiental
+
+Para reducir el **impacto ambiental**, es fundamental implementar soluciones sostenibles que optimicen su funcionamiento. Una medida clave sería migrar los servidores y sistemas que la soportan a **centros de datos impulsados por energías renovables**, como la **solar, eólica o hidroeléctrica**, lo que reduciría significativamente las emisiones de CO₂. Además, es importante mejorar la eficiencia de los algoritmos utilizados, de manera que el **consumo energético** sea menor durante el entrenamiento y uso de la inteligencia artificial, optimizando así el tiempo y los recursos necesarios. La infraestructura también juega un papel esencial: adoptar sistemas de **refrigeración ecológica** en los centros de datos, como tecnologías de enfriamiento pasivo, contribuiría a minimizar el gasto energético. Por otro lado, fomentar la **reutilización y reciclaje del hardware** permitiría reducir la generación de residuos electrónicos, prolongando la vida útil de los equipos y evitando contaminaciones innecesarias. Finalmente, la **monitorización constante del consumo energético** garantizaría un uso más eficiente y responsable de los recursos. Con estas acciones, se puede avanzar hacia un uso de Cylance mucho más **sostenible**, equilibrando los beneficios tecnológicos con el respeto al medio ambiente.
 
 [**Tornar al index**](../../index.md){: .btn .btn-primary .float-right}
