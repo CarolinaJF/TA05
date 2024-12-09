@@ -1,4 +1,4 @@
-[**Tornar al index**](../../index.md){: .btn .btn-primary .float-right}
+[**Volver al index**](../../README.md){: .btn .btn-primary .float-right}
 
 # Cylance
 
@@ -82,8 +82,21 @@ Para optimizar el funcionamiento de Cylance y **reducir su impacto ambiental**, 
 
 Cylance ofrece una solución **potente y predictiva** para la ciberseguridad moderna, pero su uso debe alinearse con prácticas sostenibles para minimizar su **impacto ambiental**. Implementar energías renovables, optimizar algoritmos y fomentar el reciclaje son claves para un futuro tecnológico más **responsable**.
 
+
+---
+
+## 📚 **Recursos Adicionales**
+
+Si deseas obtener más información sobre Cylance y su impacto en la ciberseguridad y el medio ambiente, te recomendamos revisar los siguientes recursos:
+
+- [Página oficial de Cylance](https://www.cylance.com/)
+- [Informe sobre el impacto ambiental de la ciberseguridad](https://www.cylance.com/content/dam/cylance-web/en-us/resources/white-papers/cylance-whitepaper-environmental-impact.pdf)
+- [Artículo sobre la importancia de la sostenibilidad en la industria tecnológica](https://www.cylance.com/en-us/blog/sustainability-in-the-tech-industry.html)
+
+Estos recursos te brindarán una visión más completa sobre Cylance y cómo puedes contribuir a un uso responsable de esta solución de ciberseguridad.
+
 ![Imagen](./images/logo.png){: width="35%" align="center" style="display: block; margin-left: auto; margin-right: auto; margin-top: 5%"}
 
 ---
 
-[**Tornar al index**](../../index.md){: .btn .btn-primary .float-right}  
+[**Volver al index**](../../README.md){: .btn .btn-primary .float-right}  
