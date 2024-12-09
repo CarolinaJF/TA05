@@ -1,6 +1,6 @@
 # 📘 **Manual sobre la Inteligencia Artificial (IA) en ASIXc**
 
-Este manual presenta una visión general sobre las **aplicaciones de la Inteligencia Artificial (IA)** en el sector de la informática, centrándose en el contexto de **ASIX** (Administració de Sistemes Informàtics en Xarxa). Cada sección aborda campos clave como **Redes, Gestión de la Seguridad, Soporte Técnico, Análisis de Datos** y **Desarrollo**, destacando los siguientes aspectos:  
+Este manual presenta una visión general sobre las **aplicaciones de la Inteligencia Artificial (IA)** en el sector de la informática, centrándose en el contexto de **ASIX** (Administración de Sistemas Informáticos en Red). Cada sección aborda campos clave como **Redes, Gestión de la Seguridad, Soporte Técnico, Análisis de Datos** y **Desarrollo**, destacando los siguientes aspectos:  
 
 - **Aplicaciones**  
 - **Impacto en el sector**  
