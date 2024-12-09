@@ -10,6 +10,8 @@
 
 - **Aumento de la productividad**:
 Herramientas avanzadas como GitHub Copilot han mejorado significativamente la rapidez y eficiencia con la que los desarrolladores pueden escribir código. Además, las metodologías ágiles y el uso de plataformas en la nube han reducido los tiempos de implementación, permitiendo una mejor colaboración y menores barreras entre los equipos, lo que a su vez aumenta la productividad general.
+ 
+![Imagen](./imagen/image.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 - **Reducción de costes de desarrollo**:
 La computación en la nube, la reutilización de código (a través de bibliotecas y marcos de trabajo), y el acceso a herramientas de código abierto han ayudado a reducir los costos asociados con la infraestructura y el desarrollo. Los desarrolladores pueden aprovechar soluciones existentes, lo que reduce la necesidad de construir todo desde cero. Las herramientas de automatización también reducen la carga de las tareas repetitivas, lo que disminuye los costos operativos y el tiempo de desarrollo.
