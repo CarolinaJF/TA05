@@ -15,7 +15,7 @@ Los chatbots y asistentes virtuales impulsados ​​por IA pueden brindar sopor
 Originalmente centrada en la gestión de servicios de TI, ServiceNow se ha expandido para cubrir una amplia gama de áreas empresariales, como la gestión de recursos humanos (HR), la gestión de operaciones empresariales (ITOM), la gestión de seguridad (SecOps), el soporte al cliente (CSM), la gestión de proyectos, entre otros.
 Permite a los usuarios realizar solicitudes de servicios (como la provisión de hardware o software) o crear incidencias para reportar malfuncionamiento de aplicaciones y hacer un seguimiento de su estado.
 
-**ServiceNow Virtual Agent** con la llegada de la IA, 
+**ServiceNow Virtual Agent**  es una plataforma de chatbots basada en inteligencia artificial (IA) que se integra dentro del ecosistema de ServiceNow. El Virtual Agent de ServiceNow permite a las organizaciones ofrecer soporte automatizado a través de conversaciones en lenguaje natural, mejorando la experiencia del usuario y reduciendo la carga de trabajo para los equipos de soporte humano.
 
 ## Aplicaciones
 
