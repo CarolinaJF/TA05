@@ -1,6 +1,6 @@
-# Manual sobre la Intel·ligència Artificial (IA) en ASIX
+# Manual sobre la Inteligencia Artificial (IA) en ASIX
 
-Aquest manual presenta una visió general sobre les aplicacions de la Intel·ligència Artificial (IA) en el sector de la informàtica, específicament en el context d'ASIX (Administració de Sistemes Informàtics en Xarxa). Cada secció es centra en un camp específic: Xarxes, Gestió de la Seguretat, Suport Tècnic, Anàlisis de Dades i Desenvolupament. Es tracta dels següents aspectes: aplicacions, impacte al sector, impacte ambiental i propostes per minimitzar els impactes ambientals.
+Este manual presenta una visión general sobre las aplicaciones de la Inteligencia Artificial (IA) en el sector de la informática, específicamente en el contexto de ASIX (Administració de Sistemes Informàtics en Xarxa). Cada secció es centra en un camp específic: Xarxes, Gestió de la Seguretat, Suport Tècnic, Anàlisis de Dades i Desenvolupament. Es tracta dels següents aspectes: aplicacions, impacte al sector, impacte ambiental i propostes per minimitzar els impactes ambientals.
 
 ## Índex
 
