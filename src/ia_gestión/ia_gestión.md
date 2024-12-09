@@ -1,4 +1,4 @@
-[**Volver al index**](../../README.md){: .btn .btn-primary .float-right}
+[**Índice**](../../README.md){: .btn .btn-primary .float-right}
 
 # Cylance
 
@@ -99,4 +99,4 @@ Estos recursos te brindarán una visión más completa sobre Cylance y cómo pue
 
 ---
 
-[**Volver al index**](../../README.md){: .btn .btn-primary .float-right}  
+[**Índice**](../../README.md){: .btn .btn-primary .float-right}  
