@@ -10,9 +10,12 @@ Los chatbots y asistentes virtuales impulsados ​​por IA pueden brindar sopor
 
 ![Imagen](./images/logosnow.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
-**ServiceNow** es una innovadora solución de ciberseguridad que utiliza inteligencia artificial (IA) para prevenir ataques antes de que ocurran, estableciendo un nuevo estándar en la protección de sistemas. A diferencia de las tecnologías tradicionales que dependen de la detección de firmas conocidas, Cylance emplea algoritmos avanzados de aprendizaje automático para identificar y bloquear amenazas, incluso aquellas inéditas, como ataques Zero-Day. Su enfoque predictivo permite proteger endpoints y redes de manera eficaz, brindando a las organizaciones una herramienta poderosa para anticiparse a los riesgos en un panorama de ciberamenazas en constante evolución.
+**ServiceNow** es una plataforma en la nube que ofrece soluciones para la gestión de servicios de soporte técnico (ITSM, por sus siglas en inglés: IT Service Management). Está diseñada para automatizar y optimizar procesos empresariales y de TI, proporcionando una única plataforma que conecta todos los departamentos y flujos de trabajo dentro de una organización.
 
-**ServiceNow Virtual Agent** es
+Originalmente centrada en la gestión de servicios de TI, ServiceNow se ha expandido para cubrir una amplia gama de áreas empresariales, como la gestión de recursos humanos (HR), la gestión de operaciones empresariales (ITOM), la gestión de seguridad (SecOps), el soporte al cliente (CSM), la gestión de proyectos, entre otros.
+Permite a los usuarios realizar solicitudes de servicios (como la provisión de hardware o software) o crear incidencias para reportar malfuncionamiento de aplicaciones y hacer un seguimiento de su estado.
+
+**ServiceNow Virtual Agent** con la llegada de la IA, 
 
 ## Aplicaciones
 
