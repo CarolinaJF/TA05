@@ -24,12 +24,12 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 - **Respuesta automáticas basadas en árticulos existentes**: puede responder preguntas frecuentes de los usuarios relacionadas con productos, servicios o problemas técnicos sin intervención humana. Por ejemplo, puede gestionar solicitudes de soporte relacionadas con contraseñas, incidencias técnicas o problemas con aplicaciones.
 - **Creación y gestión de incidencias**: crea tickets automáticamente en sistemas de gestión de incidentes y solicitudes cuando un usuario reporta un problema. También puede asignar tareas y hacer seguimientos sin intervención manual.
 - **Gestión de cambios y configuraciones**: creación y seguimiento de solicitudes de cambios en infraestructuras tecnológicas o configuraciones de sistemas, ayudando a automatizar tareas rutinarias de administración de TI.
-- **Disponible 24/7 y personalización de respuestas**: Utiliza aprendizaje automático y procesamiento de lenguaje natural (NLP) para personalizar las interacciones y ofrecer respuestas más precisas y útiles. Además está disponible 24/7, por lo tanto puede crear incidencias y resolverlas.
+- **Disponible 24/7 y personalización de respuestas**: utiliza aprendizaje automático y procesamiento de lenguaje natural (NLP) para personalizar las interacciones y ofrecer respuestas más precisas y útiles. Además está disponible 24/7, por lo tanto puede crear incidencias y resolverlas.
 
 
 ## Impacto al sector
 
-- **Millora de la seguretat**:
+- **Gestión de incidencias de nivel 1**: es capaz de 
 - **Reducció de les amenaces cibernètiques**:
 - **Automatització de processos de seguretat**:
 
