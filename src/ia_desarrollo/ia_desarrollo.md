@@ -45,7 +45,7 @@ el crecimiento del desarrollo de la IA, como GitHub Copilot, impulsa la demanda 
 - **Arquitecturas eficientes**: Minimiza la carga de procesamiento y reduce el consumo de energía.
 - **Diseño modular y reutilizable**: Permite reutilizar componentes, ahorrando tiempo y extendiendo el ciclo de vida de las aplicaciones.
 - **Reducción del esfuerzo de desarrollo**: Optimiza el uso de recursos y acelera la creación de nuevas funcionalidades.
-#### Reciclaje de dispositivos de desarrollo**:
+#### Reciclaje de dispositivos de desarrollo:
 Promover la reutilización y el reciclaje de dispositivos de desarrollo es clave para reducir los desechos electrónicos. Las empresas pueden implementar programas de reciclaje, ofreciendo incentivos a los empleados para devolver los dispositivos antiguos. Los fabricantes de hardware deben adoptar prácticas sostenibles, utilizando materiales reciclables y diseñando dispositivos más fáciles de reparar y actualizar. Las organizaciones también pueden ayudar donando o reutilizando dispositivos funcionales en lugar de enviarlos a los vertederos.
 > ***Nota:** GitHub, Microsoft, Thoughtworks y Accenture lanzaron la Green Software Foundation en 2021 con el objetivo de priorizar la sostenibilidad en el desarrollo de software. Su meta es reducir las emisiones de TIC en un 45% para el año 2030.*
 ---
