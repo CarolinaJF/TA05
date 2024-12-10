@@ -2,7 +2,7 @@
 
 
 ## Analisis de Datos
-
+![Imagen](./images/azure.jpg){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ### 🚀 Aplicaciones de IA (Analisis)
 Microsoft Azure AI es una plataforma robusta y flexible que pone el poder de la inteligencia artificial al alcance de las empresas. Con una amplia gama de servicios de IA, desde herramientas preconfiguradas hasta capacidades avanzadas para desarrollar modelos personalizados, Azure AI facilita la integración de la inteligencia artificial en soluciones empresariales, mejorando la eficiencia, la toma de decisiones y la innovación en distintos sectores. Además, su integración con otras herramientas de Microsoft la hace una opción atractiva para muchas organizaciones.
