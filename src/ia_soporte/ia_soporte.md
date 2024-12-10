@@ -30,7 +30,7 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 ## Impacto al sector
 
 - **Gestión de incidencias de nivel 1**: es capaz de 
-- **Reducció de les amenaces cibernètiques**:
+- **asdasd**:
 - **Automatització de processos de seguretat**:
 
 ## Impacto ambiental
