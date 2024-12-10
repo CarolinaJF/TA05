@@ -52,4 +52,4 @@ Este manual ha sido desarrollado para fines educativos y profesionales, respetan
 
 ---
 
-[**⬆️ Volver al inicio**](#-manual-sobre-la-inteligencia-artificial-ia-en-asixc)
+[**⬆️ Volver al inicio**](#-manual-de-inteligencia-artificial-ia)

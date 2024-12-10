@@ -80,7 +80,6 @@ Para optimizar el funcionamiento de Cylance y **reducir su impacto ambiental**, 
 
 Cylance ofrece una solución **potente y predictiva** para la ciberseguridad moderna, pero su uso debe alinearse con prácticas sostenibles para minimizar su **impacto ambiental**. Implementar energías renovables, optimizar algoritmos y fomentar el reciclaje son claves para un futuro tecnológico más **responsable**.
 
-
 ---
 
 ## 📚 **Recursos Adicionales**
