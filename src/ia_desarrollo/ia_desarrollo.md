@@ -13,14 +13,26 @@ Herramientas avanzadas como GitHub Copilot han mejorado significativamente la ra
  
 ![Imagen](./imagen/image.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
-- **Reducción de costes de desarrollo**:
-La computación en la nube, la reutilización de código (a través de bibliotecas y marcos de trabajo), y el acceso a herramientas de código abierto han ayudado a reducir los costos asociados con la infraestructura y el desarrollo. Los desarrolladores pueden aprovechar soluciones existentes, lo que reduce la necesidad de construir todo desde cero. Las herramientas de automatización también reducen la carga de las tareas repetitivas, lo que disminuye los costos operativos y el tiempo de desarrollo.
+  #### Reducción de costes de desarrollo:
+
+- **Computación en la nube**: Reduce costos de infraestructura al alquilar recursos en lugar de mantener servidores propios.
+
+- **Reutilización de código (bibliotecas y marcos de trabajo)**: Permite usar soluciones preexistentes, acelerando el desarrollo y mejorando la calidad del software.
+
+- **Acceso a herramientas de código abierto**: Evita costos de licencias y facilita el uso de herramientas robustas y probadas.
+
+- **Reducción de la necesidad de construir desde cero**: Reutilización de recursos existentes para disminuir el tiempo y esfuerzo de desarrollo.
+  
+- **Herramientas de automatización**: Minimiza tareas repetitivas, reduciendo costos operativos y acelerando el desarrollo.
+
+
+![Imagen](./imagen/image2.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ---
 ### Impacto ambiental Desarrollo
 
 - **Consumo energético en el desarrollo de software**:
-El desarrollo de software, especialmente con el uso de inteligencia artificial, computación en la nube y servidores dedicados para el procesamiento, puede resultar en un alto consumo de energía. Los servidores que alojan plataformas de desarrollo como GitHub pueden consumir grandes cantidades de electricidad, lo que contribuye al impacto ambiental si la energía proviene de fuentes no renovables. La creciente demanda de hardware potente y la ejecución continua de procesos de desarrollo (como compilaciones, pruebas y entrenamiento de IA) aumentan aún más la huella de carbono del sector.
+El desarrollo de software, especialmente con IA y computación en la nube, consume mucha energía debido al uso intensivo de servidores. Plataformas como GitHub requieren grandes cantidades de electricidad para operar, y si la energía proviene de fuentes no renovables, esto contribuye al impacto ambiental. Además, la creciente demanda de hardware potente y la ejecución constante de procesos como compilaciones, pruebas y entrenamiento de IA incrementan aún más la huella de carbono del sector.
 
 - **Generación de residuos electrónicos**:
 el crecimiento del desarrollo de la IA, como GitHub Copilot, impulsa la demanda de más hardware, lo que contribuye a los desechos electrónicos y al agotamiento de recursos, al tiempo que aumenta el consumo de energía asociado con la infraestructura necesaria para respaldar estas tecnologías.
@@ -32,7 +44,9 @@ Desarrollar software eficiente no solo mejora el rendimiento de la aplicación, 
 
 - **Reciclaje de dispositivos de desarrollo**:
 Promover la reutilización y el reciclaje de dispositivos de desarrollo es clave para reducir los desechos electrónicos. Las empresas pueden implementar programas de reciclaje, ofreciendo incentivos a los empleados para devolver los dispositivos antiguos. Los fabricantes de hardware deben adoptar prácticas sostenibles, utilizando materiales reciclables y diseñando dispositivos más fáciles de reparar y actualizar. Las organizaciones también pueden ayudar donando o reutilizando dispositivos funcionales en lugar de enviarlos a los vertederos.
-
+> ***Nota:** GitHub, Microsoft, Thoughtworks y Accenture lanzaron la Green Software Foundation en 2021 con el objetivo de priorizar la sostenibilidad en el desarrollo de software. Su meta es reducir las emisiones de TIC en un 45% para el año 2030.*
+---
 ![Imagen](./imagen/github1.png){: width="50%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
-[**volver al índice**](../../indice.md){: .btn .btn-primary .float-right}
+
+ [**Volver al índice**](../../index.md){: .btn .btn-primary .float-right}
