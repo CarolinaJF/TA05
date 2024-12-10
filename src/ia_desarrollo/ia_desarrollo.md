@@ -26,7 +26,7 @@ Herramientas avanzadas como GitHub Copilot han mejorado significativamente la ra
 - **Herramientas de automatización**: Minimiza tareas repetitivas, reduciendo costos operativos y acelerando el desarrollo.
 
 
-![Imagen](./imagen/image1.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+![Imagen](./imagen/image2.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ---
 ### Impacto ambiental Desarrollo
