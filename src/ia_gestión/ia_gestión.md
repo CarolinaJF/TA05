@@ -1,5 +1,3 @@
-[**Índice**](../../README.md){: .btn .btn-primary .float-right}
-
 ![Imagen](./images/logo2.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 **Cylance** es una innovadora solución de ciberseguridad que utiliza **inteligencia artificial (IA)** para prevenir ataques antes de que ocurran, estableciendo un nuevo estándar en la protección de sistemas. A diferencia de las tecnologías tradicionales que dependen de la detección de **firmas conocidas**, Cylance emplea **algoritmos avanzados de aprendizaje automático** para identificar y bloquear amenazas, incluso aquellas inéditas, como ataques **Zero-Day**.  
@@ -41,7 +39,7 @@
 
 ## 🌍 **Impacto Ambiental**
 
-> **Advertencia:** El uso de Cylance puede tener un **impacto ambiental significativo**, especialmente debido al **consumo energético** que requieren los servidores y sistemas de alto rendimiento.
+> **⚠️ Advertencia:** El uso de Cylance puede tener un **impacto ambiental significativo**, especialmente debido al **consumo energético** que requieren los servidores y sistemas de alto rendimiento.
 
 El funcionamiento continuo de estos servidores supone:  
 
