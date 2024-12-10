@@ -16,7 +16,6 @@ Originalmente centrada en la gestión de servicios de TI, ServiceNow se ha expan
 Permite a los usuarios realizar solicitudes de servicios (como la provisión de hardware o software) o crear incidencias para reportar malfuncionamiento de aplicaciones y hacer un seguimiento de su estado.
 
 **ServiceNow Virtual Agent**  es una plataforma de chatbots basada en inteligencia artificial (IA) que se integra dentro del ecosistema de ServiceNow. El Virtual Agent de ServiceNow es una herramienta potente para empresas que buscan mejorar la atención al cliente, reducir el tiempo de respuesta, y liberar a sus empleados de tareas repetitivas, enfocándose en problemas más complejos que requieren intervención humana.
-Además Copilot.Live puede ser integrado para optimizar el chatbot de ServiceNow.
 
 ![Imagen](./images/imagen1snow.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
