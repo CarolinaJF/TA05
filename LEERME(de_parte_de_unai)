@@ -1,4 +1,11 @@
-                                                                          RECORDAD EDITAR SIEMPRE EN VUESTRA BRANCH Y NO EN MAIN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+| **Inteligencia Artificial**                            | **Descripción**                                                                                                                                         |
+|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Github Copilot**         | Detecta y bloquea malware conocido y desconocido **antes** de que se ejecute utilizando **modelos predictivos** y análisis estático de archivos.       |
+| **Microsoft Azure**                 | Salvaguarda dispositivos como laptops, servidores y móviles sin **ralentizar el rendimiento** y operando incluso **sin conexión a la red**.            |
+| **Cylance**               | Identifica y neutraliza procesos de cifrado no autorizados, impidiendo la propagación de ransomware.                                                   |
+| **Juniper Network**            | Monitorea **memoria** y procesos en tiempo real para detener ataques que no dependen de archivos físicos, como inyecciones de código o scripts.        |
+| **ServiceNow**       | Neutraliza malware polimórfico y técnicas avanzadas de ofuscación, analizando las **características fundamentales** de los archivos y vectores de ataque. |
+                                                                         
 
 
 
