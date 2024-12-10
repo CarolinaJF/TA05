@@ -1,4 +1,4 @@
-[**íNDICE**](/README.md)
+[**Índice**](/README.md)
 ## Juniper Network
 
 ![Logo](Logo.png)
@@ -48,9 +48,11 @@ Los esfuerzos de Juniper para reducir el impacto medioambiental incluyen diseño
 Juniper Networks utiliza tecnologías como la virtualización de funciones de red y redes definidas por software para optimizar el uso de infraestructura física. Estas soluciones eliminan redundancias, reducen la necesidad de equipos adicionales y permiten una mejor asignación de recursos computacionales, lo que disminuye el consumo energético. 
 
 ## Uso de energía renovable
-
+![Ener](Ener.png)
 Juniper se compromete con la sostenibilidad energética integrando opciones de diseño que permiten a los centros de datos y redes emplear fuentes de energía renovable. La compañía también fomenta el uso de energías renovables en sus instalaciones y operaciones globales.
 
 ## Reciclaje de dispositivos
 
 Para abordar la generación de residuos electrónicos, Juniper implementa programas de reciclaje que permiten a los clientes devolver equipos al final de su vida útil para ser reacondicionados o reciclados.
+
+[**Índice**](/README.md)
