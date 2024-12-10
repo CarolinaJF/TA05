@@ -1,4 +1,4 @@
- [**Volver al índice**](../../index.md){: .btn .btn-primary .float-right}
+ [**índice**](../../index.md){: .btn .btn-primary .float-right}
 ---
 ![Imagen](./imagen/github1.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 ---
@@ -39,14 +39,17 @@ el crecimiento del desarrollo de la IA, como GitHub Copilot, impulsa la demanda 
 ---
 ### 🌱 Propuestas para minimizar los impactos ambientales Desarrollo
 
-- **Desarrollo de software eficiente**:
-Desarrollar software eficiente no solo mejora el rendimiento de la aplicación, sino que también ayuda a reducir el consumo de recursos. Prácticas como la optimización de algoritmos, la simplificación de la complejidad del código y el uso de arquitecturas que minimizan la carga de procesamiento ayudan a reducir la energía requerida para ejecutar el software. Además, diseñar software modular y reutilizable reduce el esfuerzo de desarrollo y extiende el ciclo de vida de las aplicaciones.
-
-- **Reciclaje de dispositivos de desarrollo**:
+#### Desarrollo de software eficiente
+- **Optimización de algoritmos**: Mejora la eficiencia y reduce el consumo de recursos y energía.
+- **Simplificación del código**: Un código más simple consume menos recursos y es más fácil de mantener.
+- **Arquitecturas eficientes**: Minimiza la carga de procesamiento y reduce el consumo de energía.
+- **Diseño modular y reutilizable**: Permite reutilizar componentes, ahorrando tiempo y extendiendo el ciclo de vida de las aplicaciones.
+- **Reducción del esfuerzo de desarrollo**: Optimiza el uso de recursos y acelera la creación de nuevas funcionalidades.
+#### Reciclaje de dispositivos de desarrollo**:
 Promover la reutilización y el reciclaje de dispositivos de desarrollo es clave para reducir los desechos electrónicos. Las empresas pueden implementar programas de reciclaje, ofreciendo incentivos a los empleados para devolver los dispositivos antiguos. Los fabricantes de hardware deben adoptar prácticas sostenibles, utilizando materiales reciclables y diseñando dispositivos más fáciles de reparar y actualizar. Las organizaciones también pueden ayudar donando o reutilizando dispositivos funcionales en lugar de enviarlos a los vertederos.
 > ***Nota:** GitHub, Microsoft, Thoughtworks y Accenture lanzaron la Green Software Foundation en 2021 con el objetivo de priorizar la sostenibilidad en el desarrollo de software. Su meta es reducir las emisiones de TIC en un 45% para el año 2030.*
 ---
 ![Imagen](./imagen/github1.png){: width="50%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 
- [**Volver al índice**](../../index.md){: .btn .btn-primary .float-right}
+ [**índice**](../../index.md){: .btn .btn-primary .float-right}
