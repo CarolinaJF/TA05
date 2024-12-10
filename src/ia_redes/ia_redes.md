@@ -1,4 +1,4 @@
-[**Tornar al index**](/index.md)
+[**íNDICE**](/README.md)
 ## Juniper Network
 
 ![Logo](Logo.png)
@@ -19,7 +19,7 @@ La monitorización de QoS en las redes de Juniper se realiza mediante herramient
 
 # Impacto en el sector
 
-##Mejora de la eficiencia
+## Mejora de la eficiencia
 
 Las soluciones de Juniper Networks, como **Apstra** y **Paragon Automation**, destacan por su capacidad para automatizar redes de extremo a extremo. Estas herramientas no solo reducen el tiempo necesario para realizar tareas operativas, sino que también minimizan errores al automatizar procesos manuales. Esto permite que los equipos de TI optimizar su tiempo y recursos, alcanzando niveles más altos de productividad y eficiencia operativa. Por ejemplo, Apstra acelera la implementación de redes hasta en un 85% y reduce los costos operativos en un 90% mediante la automatización de todo el ciclo de vida de la red.
 
