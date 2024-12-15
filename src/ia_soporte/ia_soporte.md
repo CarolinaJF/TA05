@@ -68,6 +68,6 @@ además de establecer indicadores clave de rendimiento (KPIs) específicos para 
 
 ![Imagen](./images/gif-chatbot.gif){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
-Si quieres saber más sobre esta IA sobre soporte técnico, dirígete [aquí](https://www.servicenow.com/es/standard/resource-center/data-sheet/ds-virtual-agent.html) .
+Si quieres saber más sobre esta IA sobre soporte técnico, dirígete [aquí](https://www.servicenow.com/es/standard/resource-center/data-sheet/ds-virtual-agent.html).
 
 [**Índice**](../../README.md){: .btn .btn-primary .float-right}
