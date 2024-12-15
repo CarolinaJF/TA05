@@ -1,5 +1,6 @@
 # 🤖💬 Soporte Técnico 🤖💬
 
+
 ![Imagen](./images/gif-chatbot.gif){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 Los chatbots y asistentes virtuales impulsados ​​por IA pueden brindar soporte al cliente las 24 horas, los 7 días de la semana, manejar múltiples consultas simultáneamente y brindar experiencias personalizadas al cliente. Actualmente encontramos dos tipos de IA usadas en el soporte técnico hacia los clientes de la industria:
@@ -18,6 +19,9 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 **ServiceNow Virtual Agent**  es una plataforma de chatbots basada en inteligencia artificial (IA) que se integra dentro del ecosistema de ServiceNow. El Virtual Agent de ServiceNow es una herramienta potente para empresas que buscan mejorar la atención al cliente, reducir el tiempo de respuesta, y liberar a sus empleados de tareas repetitivas, enfocándose en problemas más complejos que requieren intervención humana.
 
 ![Imagen](./images/imagen1snow.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+
+## Aplicaciones
+
 
 ## 📞 Aplicaciones 💬
 
@@ -39,6 +43,7 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 
 - **🍃 Reducción de la huella de carbono**: Al reducir la necesidad de viajes físicos para soporte técnico o atención al cliente, se puede disminuir la huella de carbono asociada a estos desplazamientos.
 - **🔋 Eficiencia energética**: La automatización de tareas puede llevar a una menor utilización de recursos, lo que podría traducirse en un menor consumo de energía en las oficinas.
+
 
 ## ♻️ Propuestas para minimizar el impacto ambiental 🌍
 
