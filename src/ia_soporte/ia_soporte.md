@@ -1,8 +1,6 @@
 # 🤖💬 Soporte Técnico 🤖💬
 
 
-![Imagen](./images/gif-chatbot.gif){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
-
 Los chatbots y asistentes virtuales impulsados ​​por IA pueden brindar soporte al cliente las 24 horas, los 7 días de la semana, manejar múltiples consultas simultáneamente y brindar experiencias personalizadas al cliente. Actualmente encontramos dos tipos de IA usadas en el soporte técnico hacia los clientes de la industria:
 
 **IA para la atención al cliente:** los chatbots y asistentes virtuales con tecnología de IA pueden brindar soporte al cliente las 24 horas, los 7 días de la semana, manejar múltiples consultas simultáneamente y brindar experiencias personalizadas al cliente.
@@ -19,9 +17,6 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 **ServiceNow Virtual Agent**  es una plataforma de chatbots basada en inteligencia artificial (IA) que se integra dentro del ecosistema de ServiceNow. El Virtual Agent de ServiceNow es una herramienta potente para empresas que buscan mejorar la atención al cliente, reducir el tiempo de respuesta, y liberar a sus empleados de tareas repetitivas, enfocándose en problemas más complejos que requieren intervención humana.
 
 ![Imagen](./images/imagen1snow.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
-
-## Aplicaciones
-
 
 ## 📞 Aplicaciones 💬
 
@@ -55,5 +50,6 @@ También podemos optimizar el uso de recursos mediante la virtualización y la t
 - 📈 **Monitoreo y Evaluación**: podemos realizar auditorías periódicas para evaluar el impacto ambiental de las operaciones y el uso del Virtual Agent.
 además de establecer indicadores clave de rendimiento (KPIs) específicos para monitorear la huella de carbono y así poder reducirla.
 
+![Imagen](./images/gif-chatbot.gif){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 [**Índice**](../../README.md){: .btn .btn-primary .float-right}
