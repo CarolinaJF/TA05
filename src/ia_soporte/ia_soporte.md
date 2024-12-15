@@ -23,9 +23,6 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fWtESwJEDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/2fWtESwJEDs" title="Virtual Agent Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/N1CG1SwYZuY" title="ServiceNow   Agent Chat Configuration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 📞 Aplicaciones 💬
 
