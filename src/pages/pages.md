@@ -15,7 +15,7 @@ Para poder publicar en pages necesitamos de un usuario en Github, luego tendriam
 
 p
 
-## ✅ Verifiación
+## ✅ Verificación
 
 Para poder verificar que tu pagina se haya publicado correctamente simplemente necesitas esperar unos minutos, en el apartado donde publicamos nuestro repositorio anteriormente se mostrará el siguiente popup con un enlace el cual te redirigirá a tu página web.
 ![Imagen](./images/result_final.png){: width="1000%" align="center" style="display: block; margin-left: auto; margin-right: auto; margin-top:20px;"}
