@@ -66,7 +66,7 @@ Para soportar plataformas de IA y la infraestructura en la nube, se fabrican ser
 ### 4. Obsolescencia y desecho de equipos: 
 A medida que la tecnología avanza, los equipos que alojan los sistemas virtuales pueden volverse obsoletos y ser reemplazados. Esto genera desechos electrónicos, los cuales pueden no ser reciclados de manera adecuada, lo que puede causar contaminación del suelo y el agua si no se gestionan correctamente.
 
-<iframe width="410" height="730" src="https://www.youtube.com/embed/XZBbCAIZZog" title="Inteligencia artificial: el costo climático oculto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="410" height="730" align="center" src="https://www.youtube.com/embed/XZBbCAIZZog" title="Inteligencia artificial: el costo climático oculto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -137,7 +137,7 @@ además de establecer indicadores clave de rendimiento (KPIs) específicos para 
 
 [Integrar Copilot en ServiceNow](https://www.copilot.live/es/usecase/chatbot-servicenow)
 
-[Enlace cómo desarrollar ServiceNow](https://developer.servicenow.com/dev.do?_escaped_fragment_=/learn/courses/xanadu/app_store_learnv2_virtualagent_xanadu_virtual_agent/app_store_learnv2_virtualagent_xanadu_developing_virtual_agent_topics/app_store_learnv2_virtualagent_xanadu_creating_and_updating_records)
+[¿Cómo desarrollar ServiceNow Virtual Agent?](https://developer.servicenow.com/dev.do?_escaped_fragment_=/learn/courses/xanadu/app_store_learnv2_virtualagent_xanadu_virtual_agent/app_store_learnv2_virtualagent_xanadu_developing_virtual_agent_topics/app_store_learnv2_virtualagent_xanadu_creating_and_updating_records)
 
 ---
 
