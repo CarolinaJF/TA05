@@ -67,7 +67,7 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 
 ### 4.4. Revisión
 
-> Pantallazo Trello 16 de Diciembre 2024. La mayoría de las tareas ya han sido realizadas y solo nos quedaban las últimas revisiones.
+> Pantallazo Trello 16 de Diciembre 2024. La mayoría de las tareas ya han sido realizadas y solo nos quedaban las últimas revisiones y los últimos detalles.
 
 ![Imagen](./images/trello4.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
@@ -77,8 +77,10 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 ### 4.5. Entrega 
 Entrega realizada después de haber revisado todo el proyecto.
 
+## 5. Diagrama de Flujo
 
-## 5. Diagramas de Flujo
+
+![Imagen](./images/diagramaflujotrabajo.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 
 ## 6. Conclusión
