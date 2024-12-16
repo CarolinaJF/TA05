@@ -1,3 +1,7 @@
+
+## Resumen de las AI
+
+
 | **Inteligencia Artificial**| **Descripción**|
 |---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Github Copilot**         | GitHub Copilot es una herramienta de inteligencia artificial que ayuda a los desarrolladores sugiriendo código, corrigiendo errores y automatizando tareas repetitivas, haciendo el desarrollo más rápido y sencillo. Mejora la productividad, ayuda a los principiantes a aprender y respalda flujos de trabajo eficientes en los equipos.        |
