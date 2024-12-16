@@ -1,6 +1,5 @@
 # 🤖💬 Soporte Técnico 🤖💬
 
-
 Los chatbots y asistentes virtuales impulsados ​​por IA pueden brindar soporte al cliente las 24 horas, los 7 días de la semana, manejar múltiples consultas simultáneamente y brindar experiencias personalizadas al cliente. Actualmente encontramos dos tipos de IA usadas en el soporte técnico hacia los clientes de la industria:
 
 **IA para la atención al cliente:** los chatbots y asistentes virtuales con tecnología de IA pueden brindar soporte al cliente las 24 horas, los 7 días de la semana, manejar múltiples consultas simultáneamente y brindar experiencias personalizadas al cliente.
@@ -8,7 +7,6 @@ Los chatbots y asistentes virtuales impulsados ​​por IA pueden brindar sopor
 **IA para la gestión de servicios:** la IA puede mejorar la gestión de servicios de IT (ITSM) al automatizar tareas rutinarias y brindar información inteligente. Por ejemplo, los chatbots con tecnología de IA pueden manejar consultas rutinarias de los clientes, lo que libera a los agentes del helpdesk para que se concentren en problemas más complejos. El análisis predictivo puede ayudar a anticipar problemas, crear alertas para el cliente y automatizar respuestas, lo que mejora la calidad del servicio y la satisfacción del cliente.
 
 ![Imagen](./images/logosnow.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
-
 
 
 **ServiceNow** es una plataforma en la nube que ofrece soluciones para la gestión de servicios de soporte técnico (ITSM, por sus siglas en inglés: IT Service Management). Está diseñada para automatizar y optimizar procesos empresariales y de *TI*, proporcionando una única plataforma que conecta todos los departamentos y flujos de trabajo dentro de una organización.
@@ -43,8 +41,6 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 
 ## 🔍 Impacto en el sector 🚀
 
-### Consumo energético:
-
 - **📞 Reducción del volumen de llamadas**: al desviar problemas comunes a un chatbot, se reduce la cantidad de llamadas entrantes. Así mejora el tiempo de respuesta y al optimizar dichas contestaciones, los agentes de soporte atienden los incidentes y resuelven los problemas con mayor rapidez dedicando tiempo a lo realmente urgente.
 
 - **🕒 Aumento de la productividad**: los efectivos que se dedican a resolver incidencias pueden centrarse en tareas más compleas y urgentes.
@@ -54,16 +50,20 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 - **📝 Mantenimiento de la base de conocimiento**: al convertir las resoluciones de los incidentes en borradores, acelera el proceso de creación de artículos de la base de conocimiento lo que garantiza que esté actualizada y conserve toda la información, incluso si se marchan los miembros experimentados del equipo.
 
 ## 🏭 Impacto ambiental 🚗💨
+### Consumo energético:
 
 - **Infraestructura en la nube**: Los sistemas como ServiceNow Virtual Agent suelen funcionar en servidores ubicados en centros de datos que requieren grandes cantidades de energía para mantener sus servidores en funcionamiento y, en muchos casos, esa energía proviene de fuentes no renovables.
 
 - **Procesamiento de IA**: Los modelos de inteligencia artificial, como los utilizados en los asistentes virtuales, requieren un procesamiento intensivo de datos, lo que puede consumir una cantidad significativa de energía, especialmente si se utilizan grandes volúmenes de datos y se entrenan modelos complejos.
 
-- **Emisiones de carbono**: el consumo de energía, especialmente si proviene de fuentes fósiles, contribuye a las emisiones de gases de efecto invernadero. Si los servidores que ejecutan los agentes virtuales no están alimentados por fuentes de energía renovables, el uso continuo de estos servicios puede aumentar la huella de carbono de una organización.
+### Emisiones de carbono: 
+El consumo de energía, especialmente si proviene de fuentes fósiles, contribuye a las emisiones de gases de efecto invernadero. Si los servidores que ejecutan los agentes virtuales no están alimentados por fuentes de energía renovables, el uso continuo de estos servicios puede aumentar la huella de carbono de una organización.
 
-- **Fabricación de hardware**: Para soportar plataformas de IA y la infraestructura en la nube, se fabrican servidores, dispositivos de almacenamiento y otros componentes tecnológicos. La fabricación de estos dispositivos requiere recursos naturales y energía, y su producción y transporte tienen un impacto ambiental.
+### Fabricación de hardware: 
+Para soportar plataformas de IA y la infraestructura en la nube, se fabrican servidores, dispositivos de almacenamiento y otros componentes tecnológicos. La fabricación de estos dispositivos requiere recursos naturales y energía, y su producción y transporte tienen un impacto ambiental.
 
-- **Obsolescencia y desecho de equipos**: A medida que la tecnología avanza, los equipos que alojan los sistemas virtuales pueden volverse obsoletos y ser reemplazados. Esto genera desechos electrónicos, los cuales pueden no ser reciclados de manera adecuada, lo que puede causar contaminación del suelo y el agua si no se gestionan correctamente.
+### Obsolescencia y desecho de equipos: 
+A medida que la tecnología avanza, los equipos que alojan los sistemas virtuales pueden volverse obsoletos y ser reemplazados. Esto genera desechos electrónicos, los cuales pueden no ser reciclados de manera adecuada, lo que puede causar contaminación del suelo y el agua si no se gestionan correctamente.
 
 
 ## ♻️ Propuestas para minimizar el impacto ambiental 🌍
