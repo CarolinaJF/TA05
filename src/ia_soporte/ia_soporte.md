@@ -45,6 +45,7 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 - **🏆 Mejora de la experiencia del usuario**: resoluciones rápidas y precisas aumentan la satisfacción tanto de empleados como de clientes. También pueden reducir la cantidad de errores humanos en el soporte técnico, lo que puede llevar a una reducción en los costes asociados con la corrección de errores.
 
 - **📝 Mantenimiento de la base de conocimiento**: al convertir las resoluciones de los incidentes en borradores, acelera el proceso de creación de artículos de la base de conocimiento lo que garantiza que esté actualizada y conserve toda la información, incluso si se marchan los miembros experimentados del equipo.
+
 ---
 
 ![Imagen](./images/benefits.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
