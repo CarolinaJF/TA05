@@ -36,28 +36,46 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 1. **Reuniones Iniciales**: Primero definimos los puntos clave requeridos para este proyecto.
 2. **Asignación de Tareas**: Una vez definidos distribuimos los roles y las responsabilidades mediante la herramienta Trello.
 
-> Pantallazo Trello 2 de Diciembre 2024
+> Pantallazo Trello 2 de Diciembre 2024. El primer dia decidimos las tascas principales y las repartimos entre los miembros del grupo.
 
-![Imagen](./images/trello1.png.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+![Imagen](./images/trello1.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ### 4.2. Desarrollo
-1. **Configuración del Entorno**: Unai Llagostera se encargó de la creación de las carpetas después de que Carolina creara el repositorio en GitHub y las ramas asignadas a cada uno de los integrantes del equipo. Una vez realizada esta parte las herramientas y el entorno de desarrollo estaban configurados.
+1. **Configuración del Entorno**: Unai Llagostera se encargó de la creación de las carpetas y de la creación de la base del manual después de que Carolina creara el repositorio en GitHub y las ramas asignadas a cada uno de los integrantes del equipo. Una vez realizada esta parte las herramientas y el entorno de desarrollo estaban configurados.
+
+> Pantallazo Trello 3 de Diciembre 2024. El segundo dia ya empezamos con el trabajo individual cada uno en su branch.
+
+![Imagen](./images/trello2.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+
 2. **Investigación y Recolección de Información**: Recopilamos datos sobre la herramienta y aplicaciones de IA relevantes dentro del sector que cada uno tenía asignado.
 3. **Redacción de Contenido**: empezamos a redactar el contenido del manual en Markdown.
-4. **Revisión por Pares**: Implementamos un proceso de revisión por pares para asegurar la calidad del contenido. Asimismo, Unai Llagostera, Samuel y Spandan revisaron el contenido de cada uno, Unai Almarcha y Carolina revisaron el contenido entre ellos.
-5. **1ª Puesta en común**: Después de haber investigado sobre la IA y haber introducido el contenido pusimos en común qué más funcionalidades añadiríamos para hacer más visible nuestro proyecto.
+
+4. **1ª Puesta en común**: Después de haber investigado sobre la IA y haber introducido el contenido pusimos en común qué más funcionalidades añadiríamos para hacer más visible nuestro proyecto.
+
+> Pantallazo Trello 9 de Diciembre 2024. Empezamos a terminar la redacción de contenido que estábamos llevando a cabo de manera individual.
+
+![Imagen](./images/trello21.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ### 4.3. Integración
 1. **Preparación del Entorno de Producción**: Hicimos varias pull request, después investigamos cómo publicar nuestro proyecto en GitHub Pages.
+
 2. **Despliegue**: Una vez publicado nuestro proyecto en GitHub Pages decidimos qué cambios implementaríamos. Uno de los cambios más decisivos fue si era realmente necesario introducir un botón que llevara al inicio ya que el propio título del proyecto nos proporcionaba el mismo funcionamiento.
-3. **Integración de Contenido**: Integramos las contribuciones individuales que cada uno había hecho en su propia rama en la rama main del repositorio de GitHub.
+3. **Actualización de la Documentación del proyecto**: Actualizamos las tareas que teníamos asignadas en Trello y redifinimos cómo entregaríamos el proyecto. De tal forma que decidimos crear dos páginas suplementarias que explicaran cómo realizamos la publicación de este proyecto en Pages y el flujo de trabajo de este proyecto.
+4. **Integración de Contenido**: Integramos las contribuciones individuales que cada uno había hecho en su propia rama en la rama main del repositorio de GitHub.
+
+> Pantallazo Trello 10 de Diciembre 2024. En este paso también nos dimos cuenta de que había que añadir algunas funcionalidades más e integramos los cambios individuales a la rama main.
+
+![Imagen](./images/trello3.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ### 4.4. Revisión
-1. **Integración de Contenido**: Volvimos a integrar las contribuciones individuales. 
-2. **Actualización de la Documentación del proyecto**: Actualizamos las tareas que teníamos asignadas en Trello y redifinimos cómo entregaríamos el proyecto. De tal forma que decidimos crear dos páginas suplementarias que explicaran cómo realizamos la publicación de este proyecto en Pages y el flujo de trabajo de este proyecto.
-3. **Feedback y Correcciones**: Volvimos a reunirnos para dar feedback, incorporamos el feedback recibido y realizamos las correcciones necesarias.
+1. **Integración de Contenido**: Volvimos a integrar las contribuciones individuales haciendo varias pull request.
+2. **Feedback y Correcciones**: Volvimos a reunirnos para dar feedback, incorporamos el feedback recibido y realizamos las correcciones necesarias.
 
-### 4.5. Revisión
+> Pantallazo Trello 16 de Diciembre 2024. La mayoría de las tareas ya han sido realizadas y solo nos quedaban las últimas revisiones.
+
+![Imagen](./images/trello4.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+
+### 4.5. Entrega 
 Entrega realizada por Carolina después de haber revisado todo el proyecto.
 
 ### Flujo de trabajo con Trello
