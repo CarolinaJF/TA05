@@ -17,7 +17,8 @@ Este manual presenta una visión general sobre las **aplicaciones de la Intelige
 4. [📊 Análisis de Datos](./src/ia_análisis/ia_análisis.md)  
 5. [💻 Desarrollo](./src/ia_desarrollo/ia_desarrollo.md)  
 
-* [GitHub Pages](./src/pages/pages.md)
+- [GitHub Pages](./src/pages/pages.md)
+- [Trello y valoración](./src/pages/valo.md)
 
 ---
 

@@ -13,7 +13,14 @@ Para poder publicar en pages necesitamos de un usuario en Github, luego tendriam
 
 ## 👣 Pasos de publicación
 
-p
+**1.** Para empezar entra en la sección de configuración de tu repositorio.
+![Imagen](./images/sel_seting.png){: width="1000%" align="center" style="display: block; margin-left: auto; margin-right: auto; margin-top:20px;"}
+**2.** A continuación acceda al apartado de pages.
+![Imagen](./images/sel_pag.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto; margin-top:20px;"}
+**3.** En este punto podremos visualizar el siguiente menu:
+![Imagen](./images/config_root.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;}
+Debemos seleccionar deploy from a branch y de forma predeterminada dejarlo en la branch main en la carpeta del root (la general). Se recomiendo almacenar todos los archivos dentro de otra carpeta anomenada src y fuera de esta un index/readme que sirva para presentar la web.
+![Imagen](./images/org.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;}
 
 ## ✅ Verificación
 
