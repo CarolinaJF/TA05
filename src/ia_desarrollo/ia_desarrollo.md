@@ -52,4 +52,5 @@ Promover la reutilización y el reciclaje de dispositivos de desarrollo es clave
 ![Imagen](./imagen/github1.png){: width="50%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 
- [**índice**](../../index.md){: .btn .btn-primary .float-right}
+--- ![Imagen](./imagen/github1.png){: width="50%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+[ **índice**](../../index.md){: .btn .btn-primary .float-right}
