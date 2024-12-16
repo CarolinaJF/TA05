@@ -8,6 +8,9 @@ Los chatbots y asistentes virtuales impulsados ​​por IA pueden brindar sopor
 
 **IA para la gestión de servicios:** la IA puede mejorar la gestión de servicios de IT (ITSM) al automatizar tareas rutinarias y brindar información inteligente. Por ejemplo, los chatbots con tecnología de IA pueden manejar consultas rutinarias de los clientes, lo que libera a los agentes del helpdesk para que se concentren en problemas más complejos. El análisis predictivo puede ayudar a anticipar problemas, crear alertas para el cliente y automatizar respuestas, lo que mejora la calidad del servicio y la satisfacción del cliente.
 
+---
+> *“La IA es una de las cosas más importantes en las que la humanidad está trabajando. Es más profunda que, creo, el fuego o la electricidad.” Sundar Pichai (CEO de Google).*
+---
 
 **ServiceNow** es una plataforma en la nube que ofrece soluciones para la gestión de servicios de soporte técnico (ITSM, por sus siglas en inglés: IT Service Management). Está diseñada para automatizar y optimizar procesos empresariales y de *TI*, proporcionando una única plataforma que conecta todos los departamentos y flujos de trabajo dentro de una organización.
 
@@ -67,11 +70,8 @@ Para soportar plataformas de IA y la infraestructura en la nube, se fabrican ser
 ### 4. Obsolescencia y desecho de equipos: 
 A medida que la tecnología avanza, los equipos que alojan los sistemas virtuales pueden volverse obsoletos y ser reemplazados. Esto genera desechos electrónicos, los cuales pueden no ser reciclados de manera adecuada, lo que puede causar contaminación del suelo y el agua si no se gestionan correctamente.
 
-<iframe width="410" height="730" align="center" src="https://www.youtube.com/embed/XZBbCAIZZog" title="Inteligencia artificial: el costo climático oculto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="410" height="730" src="https://www.youtube.com/embed/XZBbCAIZZog" title="Inteligencia artificial: el costo climático oculto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
-
-> *“La IA es una de las cosas más importantes en las que la humanidad está trabajando. Es más profunda que, creo, el fuego o la electricidad.” Sundar Pichai (CEO de Google).*
 ---
 
 ## ♻️ Propuestas para minimizar el impacto ambiental 🌍
@@ -80,6 +80,10 @@ A medida que la tecnología avanza, los equipos que alojan los sistemas virtuale
 También podemos optimizar el uso de recursos mediante la virtualización y la tecnología en la nube que permite escalar según la demanda, reduciendo el consumo de energía en periodos de baja actividad.
 
 - 🔧 **Desarrollo y Mejora del Software**: nos podemos asegurar del que el código de Virtual Agent esté optimizado para consumir la menor cantidad de recursos posibles. También podemos realizar mantenimientos regulares y actualizaciones para garantizar que el software funcione de manera eficiente y no consuma recursos innecesarios.
+
+- 🔁 **Programas de reciclaje y economía circular**: podemos establecer programas de reciclaje y reutilización que recojan y procesen los equipos obsoletos de manera adecuada para recuperar materiales valiosos y reducir los desechos. También podemos promover la reparación, reutilización y reciclaje de equipos electrónicos en lugar de desecharlos además de implementar y hacer cumplir regulaciones estrictas sobre la gestión de desechos electrónicos para garantizar que los equipos se reciclen de manera segura y responsable.
+
+- 🎨 **Inversión en diseño y fabricación**:se puede invertir en el diseño de equipos con componentes modulares con mayor durabilidad, más eficientes y menos intensivos en energía que puedan ser fácilmente reemplazados o actualizados sin necesidad de desechar el dispositivo completo. Por otro lado, se puede fomentar el uso de materiales reciclados y reciclables en la fabricación de hardware para reducir la demanda de nuevos recursos naturales.
 
 - 📈 **Monitoreo y Evaluación**: podemos realizar auditorías periódicas para evaluar el impacto ambiental de las operaciones y el uso del Virtual Agent.
 además de establecer indicadores clave de rendimiento (KPIs) específicos para monitorear la huella de carbono y así poder reducirla.
@@ -125,7 +129,10 @@ además de establecer indicadores clave de rendimiento (KPIs) específicos para 
     }
 })(inputs, outputs);
 ~~~
+
 ![Imagen](./images/SNOW-developper.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+
+*Diagrama de diseño de actualización de teléfono de oficina en ServiceNow Virtual Agent.*
 
 ---
 ## Webgrafía
