@@ -9,8 +9,3 @@
 
 
 
-Si necesitais añadir contenido (imagenes...) hacerlo como se
-indica en la carpeta de gestión (en la carpeta de images). 
-Antes de crear cualquier carpeta adicional informar me.
-RECORDAR: traducir vuestro apartado al castellano. Aseguraros que los
-titulos despues de traducirlos coinciden con los otros de las otras IAs
