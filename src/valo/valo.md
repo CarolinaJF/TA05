@@ -78,7 +78,7 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 Entrega realizada después de haber revisado todo el proyecto.
 
 ## 5. Diagrama de Flujo
-
+A continuación se detalla de manera esquematizada el flujo de trabajo que hemos seguido en este proyecto.
 
 ![Imagen](./images/diagramaflujotrabajo.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
