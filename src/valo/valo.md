@@ -32,28 +32,28 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 
 ## 4. Flujo de Trabajo
 
-### 4.1 Planificación
+### 4.1. Planificación
 1. **Reuniones Iniciales**: Primero definimos los puntos clave requeridos para este proyecto. 
 2. **Asignación de Tareas**: Una vez definidos distribuimos los roles y las responsabilidades mediante la herramienta Trello.
 
-### 4.2 Desarrollo
+### 4.2. Desarrollo
 1. **Configuración del Entorno**: Unai Llagostera se encargó de la creación de las carpetas después de que Carolina creara el repositorio en GitHub y las ramas asignadas a cada uno de los integrantes del equipo. Una vez realizada esta parte las herramientas y el entorno de desarrollo estaban configurados.
 2. **Investigación y Recolección de Información**: Recopilamos datos sobre la herramienta y aplicaciones de IA relevantes dentro del sector que cada uno tenía asignado.
 3. **Redacción de Contenido**: empezamos a redactar el contenido del manual en Markdown.
 4. **Revisión por Pares**: Implementamos un proceso de revisión por pares para asegurar la calidad del contenido. Asimismo, Unai Llagostera, Samuel y Spandan revisaron el contenido de cada uno, Unai Almarcha y Carolina revisaron el contenido entre ellos.
 5. **1ª Puesta en común**: Después de haber investigado sobre la IA y haber introducido el contenido pusimos en común qué más funcionalidades añadiríamos para hacer más visible nuestro proyecto.
 
-### 4.3 Integración
+### 4.3. Integración
 1. **Preparación del Entorno de Producción**: Hicimos varias pull request, después investigamos cómo publicar nuestro proyecto en GitHub Pages.
 2. **Despliegue**: Una vez publicado nuestro proyecto en GitHub Pages decidimos qué cambios implementaríamos. Uno de los cambios más decisivos fue si era realmente necesario introducir un botón que llevara al inicio ya que el propio título del proyecto nos proporcionaba el mismo funcionamiento.
 3. **Integración de Contenido**: Integramos las contribuciones individuales que cada uno había hecho en su propia rama en la rama main del repositorio de GitHub.
 
-### 4.4 Revisión
+### 4.4. Revisión
 1. **Integración de Contenido**: Volvimos a integrar las contribuciones individuales. 
 2. **Actualización de la Documentación del proyecto**: Actualizamos las tareas que teníamos asignadas en Trello y redifinimos cómo entregaríamos el proyecto. De tal forma que decidimos crear dos páginas suplementarias que explicaran cómo realizamos la publicación de este proyecto en Pages y el flujo de trabajo de este proyecto.
 3. **Feedback y Correcciones**: Volvimos a reunirnos para dar feedback, incorporamos el feedback recibido y realizamos las correcciones necesarias.
 
-### 4.5 Revisión
+### 4.5. Revisión
 Entrega realizada por Carolina después de haber revisado todo el proyecto.
 
 ## 5. Diagramas de Flujo
