@@ -8,6 +8,9 @@ Los chatbots y asistentes virtuales impulsados ​​por IA pueden brindar sopor
 
 **IA para la gestión de servicios:** la IA puede mejorar la gestión de servicios de IT (ITSM) al automatizar tareas rutinarias y brindar información inteligente. Por ejemplo, los chatbots con tecnología de IA pueden manejar consultas rutinarias de los clientes, lo que libera a los agentes del helpdesk para que se concentren en problemas más complejos. El análisis predictivo puede ayudar a anticipar problemas, crear alertas para el cliente y automatizar respuestas, lo que mejora la calidad del servicio y la satisfacción del cliente.
 
+---
+> *“La IA es una de las cosas más importantes en las que la humanidad está trabajando. Es más profunda que, creo, el fuego o la electricidad.” Sundar Pichai (CEO de Google).*
+---
 
 **ServiceNow** es una plataforma en la nube que ofrece soluciones para la gestión de servicios de soporte técnico (ITSM, por sus siglas en inglés: IT Service Management). Está diseñada para automatizar y optimizar procesos empresariales y de *TI*, proporcionando una única plataforma que conecta todos los departamentos y flujos de trabajo dentro de una organización.
 
@@ -68,9 +71,6 @@ A medida que la tecnología avanza, los equipos que alojan los sistemas virtuale
 
 <iframe width="410" height="730" src="https://www.youtube.com/embed/XZBbCAIZZog" title="Inteligencia artificial: el costo climático oculto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
-
-> *“La IA es una de las cosas más importantes en las que la humanidad está trabajando. Es más profunda que, creo, el fuego o la electricidad.” Sundar Pichai (CEO de Google).*
 ---
 
 ## ♻️ Propuestas para minimizar el impacto ambiental 🌍
