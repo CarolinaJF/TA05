@@ -33,8 +33,12 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 ## 4. Flujo de Trabajo
 
 ### 4.1. Planificación
-1. **Reuniones Iniciales**: Primero definimos los puntos clave requeridos para este proyecto. 
+1. **Reuniones Iniciales**: Primero definimos los puntos clave requeridos para este proyecto.
 2. **Asignación de Tareas**: Una vez definidos distribuimos los roles y las responsabilidades mediante la herramienta Trello.
+
+> Pantallazo Trello 2 de Diciembre 2024
+
+![Imagen](./images/trello1.png.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ### 4.2. Desarrollo
 1. **Configuración del Entorno**: Unai Llagostera se encargó de la creación de las carpetas después de que Carolina creara el repositorio en GitHub y las ramas asignadas a cada uno de los integrantes del equipo. Una vez realizada esta parte las herramientas y el entorno de desarrollo estaban configurados.
@@ -55,6 +59,11 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 
 ### 4.5. Revisión
 Entrega realizada por Carolina después de haber revisado todo el proyecto.
+
+### Flujo de trabajo con Trello
+
+Entrega realizada por Carolina después de haber revisado todo el proyecto.
+1. **Integración de Contenido**: Volvimos a integrar las contribuciones individuales. 
 
 ## 5. Diagramas de Flujo
 
