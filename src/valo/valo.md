@@ -9,6 +9,6 @@
 | **Juniper Network**            | Juniper Networks aprovecha la inteligencia artificial para hacer sus soluciones de red más inteligentes, seguras y eficientes, proporcionando una experiencia más fluida tanto para los administradores de TI como para los usuarios finales.        |
 | **ServiceNow Virtual Agent**       | ServiceNow Virtual Agent es una plataforma de chatbots basada en inteligencia artificial que se integra dentro del ecosistema de ServiceNow. El Virtual Agent de ServiceNow es una herramienta potente para empresas que buscan mejorar la atención al cliente, reducir el tiempo de respuesta, y liberar a sus empleados de tareas repetitivas, enfocándose en problemas más complejos que requieren intervención humana.
 
-.|
+
 
 [**Índice**](../../README.md){: .btn .btn-primary .float-right}
