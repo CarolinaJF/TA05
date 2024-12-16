@@ -18,6 +18,7 @@ Este manual presenta una visión general sobre las **aplicaciones de la Intelige
 5. [💻 Desarrollo](./src/ia_desarrollo/ia_desarrollo.md)  
 
 - [GitHub Pages](./src/pages/pages.md)
+- [Trello y valoración](./src/pages/valo.md)
 
 ---
 
