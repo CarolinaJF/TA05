@@ -1,6 +1,5 @@
 
-## Resumen de las AI
-
+# Resumen de las AI
 
 | **Inteligencia Artificial**| **Descripción**|
 |---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9,3 +8,5 @@
 | **Cylance**               | Cylance es una innovadora solución de ciberseguridad que utiliza inteligencia artificial (IA) para prevenir ataques antes de que ocurran, estableciendo un nuevo estándar en la protección de sistemas. A diferencia de las tecnologías tradicionales que dependen de la detección de firmas conocidas, Cylance emplea algoritmos avanzados de aprendizaje automático para identificar y bloquear amenazas, incluso aquellas inéditas, como ataques Zero-Day.                                                   |
 | **Juniper Network**            | Juniper Networks aprovecha la inteligencia artificial para hacer sus soluciones de red más inteligentes, seguras y eficientes, proporcionando una experiencia más fluida tanto para los administradores de TI como para los usuarios finales.        |
 | **ServiceNow**       | ServiceNow es una plataforma en la nube que ofrece soluciones para la gestión de servicios de soporte técnico (ITSM, por sus siglas en inglés: IT Service Management). Está diseñada para automatizar y optimizar procesos empresariales y de TI, proporcionando una única plataforma que conecta todos los departamentos y flujos de trabajo dentro de una organización.|
+
+[**Índice**](../../README.md){: .btn .btn-primary .float-right}
