@@ -43,8 +43,8 @@ Este manual está especialmente diseñado para:
 
 ¿Tienes dudas, sugerencias o comentarios? ¡Nos encantaría escucharte!  
 
-- 📧 **Email:** [soporte](mailto:unai.llagostera.7e8@itb.cat)  
-- 🌐 **Sitio web:** [www.manual.com](www.manual.com)
+- 📧 **Email:** [Soporte](mailto:ia.mds@itb.cat)  
+- 🌐 **Sitio web:** [https://itb.cat/](https://itb.cat/)
 
 ---
 
