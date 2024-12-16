@@ -1,19 +1,21 @@
  [**índice**](../../index.md){: .btn .btn-primary .float-right}
 ---
+![Imagen](./imagen/hh.gif){: width="50%" align="center" style="display: block; margin-left: auto; margin-right:right;"}
+---
 ![Imagen](./imagen/github1.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 ---
 
 - GitHub Copilot es una herramienta de inteligencia artificial que ayuda a los desarrolladores sugiriendo código, corrigiendo errores y automatizando tareas repetitivas, haciendo el desarrollo más rápido y sencillo. Mejora la productividad, ayuda a los principiantes a aprender y respalda flujos de trabajo eficientes en los equipos. Sin embargo, tiene un impacto ambiental significativo debido al alto consumo de energía necesario para entrenar y ejecutar sus modelos. Para reducir este impacto, se pueden adoptar energías renovables, modelos optimizados, capacidades offline e iniciativas de compensación de carbono.
 ---
 
-  ### 💻 Impacto en el sector Desarrollo
+### 💻 Impacto en el sector Desarrollo
 
 - **Aumento de la productividad**:
 Herramientas avanzadas como GitHub Copilot han mejorado significativamente la rapidez y eficiencia con la que los desarrolladores pueden escribir código. Además, las metodologías ágiles y el uso de plataformas en la nube han reducido los tiempos de implementación, permitiendo una mejor colaboración y menores barreras entre los equipos, lo que a su vez aumenta la productividad general.
  
 ![Imagen](./imagen/image.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
-  #### 💸 Reducción de costes de desarrollo:
+#### 💸 Reducción de costes de desarrollo:
 
 - **Computación en la nube**: Reduce costos de infraestructura al alquilar recursos en lugar de mantener servidores propios.
 
@@ -52,5 +54,4 @@ Promover la reutilización y el reciclaje de dispositivos de desarrollo es clave
 ![Imagen](./imagen/github1.png){: width="50%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 
---- ![Imagen](./imagen/github1.png){: width="50%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
-[ **índice**](../../index.md){: .btn .btn-primary .float-right}
+ [**índice**](../../index.md){: .btn .btn-primary .float-right}
