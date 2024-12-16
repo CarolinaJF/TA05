@@ -5,11 +5,11 @@
 
 # Aplicaciones de la IA de Juniper Network
 
-## Gestión de redes inteligentes
+ ## ![Gestion](gestion.png)Gestión de redes inteligentes
 
 Juniper utiliza la automatización avanzada y redes basadas en la intención para gestionar redes inteligentes. Las redes basadas en la intención permiten que los operadores definan los resultados empresariales deseados, mientras que el sistema traduce estos objetivos en configuraciones automáticas, garantizando eficiencia y reduciendo errores humanos. Además, estas redes incluyen validaciones continuas y analíticas para optimizar el rendimiento y solucionar problemas de manera autónoma.
 
-## Optimización de las rutas
+## ![Optimizacion](optimizacion.png)Optimización de las rutas
 
 Para optimizar rutas, Juniper emplea tecnologías como los enrutadores de las series PTX y ACX, diseñados para maximizar la eficiencia energética y el rendimiento. Estos dispositivos gestionan rutas a alta velocidad y capacidad, permitiendo la sincronización precisa necesaria para aplicaciones críticas como 5G.
 
@@ -27,13 +27,13 @@ Las soluciones de Juniper Networks, como **Apstra** y **Paragon Automation**, de
 
 La automatización basada en IA y aprendizaje automático permite optimizar el uso de la infraestructura de red y minimizar gastos innecesarios. Por ejemplo, la solución **Paragon Active Assurance** verifica y garantiza continuamente la calidad del servicio (QoS), lo que previene problemas de rendimiento que podrían requerir costosas intervenciones manuales.
 
-## Mayor seguridad
+## 🔒Mayor seguridad
 
 Juniper integra su enfoque de seguridad en todas sus soluciones, destacando el concepto de "Confianza Cero". Esto incluye una prevención avanzada de amenazas y una protección integrada en toda la infraestructura de red, desde los centros de datos hasta las nubes distribuidas. Además, sus diseños de redes seguras ayudan a proteger aplicaciones, datos e infraestructura en todos los puntos de conexión, mejorando la 
 
 # Impacto medioambiental 
 
-## Consumo energético
+## ⚡Consumo energético
 
 Juniper Networks prioriza la eficiencia energética en sus soluciones. Por ejemplo, los enrutadores de la serie ACX7000 emplean innovaciones como la energía adaptable, que puede reducir entre un 20% y 50% el consumo energético, lo que los hace ideales para despliegues en el ámbito del "Cloud Metro".
 
