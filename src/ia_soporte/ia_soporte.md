@@ -45,6 +45,7 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 - **🏆 Mejora de la experiencia del usuario**: resoluciones rápidas y precisas aumentan la satisfacción tanto de empleados como de clientes. También pueden reducir la cantidad de errores humanos en el soporte técnico, lo que puede llevar a una reducción en los costes asociados con la corrección de errores.
 
 - **📝 Mantenimiento de la base de conocimiento**: al convertir las resoluciones de los incidentes en borradores, acelera el proceso de creación de artículos de la base de conocimiento lo que garantiza que esté actualizada y conserve toda la información, incluso si se marchan los miembros experimentados del equipo.
+---
 
 ![Imagen](./images/benefits.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
@@ -65,7 +66,7 @@ Para soportar plataformas de IA y la infraestructura en la nube, se fabrican ser
 ### 4. Obsolescencia y desecho de equipos: 
 A medida que la tecnología avanza, los equipos que alojan los sistemas virtuales pueden volverse obsoletos y ser reemplazados. Esto genera desechos electrónicos, los cuales pueden no ser reciclados de manera adecuada, lo que puede causar contaminación del suelo y el agua si no se gestionan correctamente.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lo1Gt6jf2aY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="410" height="730" src="https://www.youtube.com/embed/XZBbCAIZZog" title="Inteligencia artificial: el costo climático oculto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
