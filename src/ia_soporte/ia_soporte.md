@@ -132,6 +132,7 @@ además de establecer indicadores clave de rendimiento (KPIs) específicos para 
 ![Imagen](./images/SNOW-developper.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 *Diagrama de diseño de actualización de teléfono de oficina en ServiceNow Virtual Agent.*
+
 ---
 ## Webgrafía
 
