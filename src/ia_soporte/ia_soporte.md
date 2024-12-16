@@ -43,17 +43,27 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 
 ## 🔍 Impacto en el sector 🚀
 
-- **📞 Reducción del volumen de llamadas**: al desviar problemas comunes a un chatbot, se reduce la cantidad de llamadas entrantes.
+### Consumo energético:
+
+- **📞 Reducción del volumen de llamadas**: al desviar problemas comunes a un chatbot, se reduce la cantidad de llamadas entrantes. Así mejora el tiempo de respuesta y al optimizar dichas contestaciones, los agentes de soporte atienden los incidentes y resuelven los problemas con mayor rapidez dedicando tiempo a lo realmente urgente.
 
 - **🕒 Aumento de la productividad**: los efectivos que se dedican a resolver incidencias pueden centrarse en tareas más compleas y urgentes.
 
-- **🏆 Mejora de la experiencia del usuario**: resoluciones rápidas y precisas aumentan la satisfacción tanto de empleados como de clientes
+- **🏆 Mejora de la experiencia del usuario**: resoluciones rápidas y precisas aumentan la satisfacción tanto de empleados como de clientes. También pueden reducir la cantidad de errores humanos en el soporte técnico, lo que puede llevar a una reducción en los costes asociados con la corrección de errores.
+
+- **📝 Mantenimiento de la base de conocimiento**: al convertir las resoluciones de los incidentes en borradores, acelera el proceso de creación de artículos de la base de conocimiento lo que garantiza que esté actualizada y conserve toda la información, incluso si se marchan los miembros experimentados del equipo.
 
 ## 🏭 Impacto ambiental 🚗💨
 
-- **🍃 Reducción de la huella de carbono**: Al reducir la necesidad de viajes físicos para soporte técnico o atención al cliente, se puede disminuir la huella de carbono asociada a estos desplazamientos.
+- **Infraestructura en la nube**: Los sistemas como ServiceNow Virtual Agent suelen funcionar en servidores ubicados en centros de datos que requieren grandes cantidades de energía para mantener sus servidores en funcionamiento y, en muchos casos, esa energía proviene de fuentes no renovables.
 
-- **🔋 Eficiencia energética**: La automatización de tareas puede llevar a una menor utilización de recursos, lo que podría traducirse en un menor consumo de energía en las oficinas.
+- **Procesamiento de IA**: Los modelos de inteligencia artificial, como los utilizados en los asistentes virtuales, requieren un procesamiento intensivo de datos, lo que puede consumir una cantidad significativa de energía, especialmente si se utilizan grandes volúmenes de datos y se entrenan modelos complejos.
+
+- **Emisiones de carbono**: el consumo de energía, especialmente si proviene de fuentes fósiles, contribuye a las emisiones de gases de efecto invernadero. Si los servidores que ejecutan los agentes virtuales no están alimentados por fuentes de energía renovables, el uso continuo de estos servicios puede aumentar la huella de carbono de una organización.
+
+- **Fabricación de hardware**: Para soportar plataformas de IA y la infraestructura en la nube, se fabrican servidores, dispositivos de almacenamiento y otros componentes tecnológicos. La fabricación de estos dispositivos requiere recursos naturales y energía, y su producción y transporte tienen un impacto ambiental.
+
+- **Obsolescencia y desecho de equipos**: A medida que la tecnología avanza, los equipos que alojan los sistemas virtuales pueden volverse obsoletos y ser reemplazados. Esto genera desechos electrónicos, los cuales pueden no ser reciclados de manera adecuada, lo que puede causar contaminación del suelo y el agua si no se gestionan correctamente.
 
 
 ## ♻️ Propuestas para minimizar el impacto ambiental 🌍
