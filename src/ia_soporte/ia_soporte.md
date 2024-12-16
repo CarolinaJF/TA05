@@ -9,12 +9,16 @@ Los chatbots y asistentes virtuales impulsados ​​por IA pueden brindar sopor
 
 ![Imagen](./images/logosnow.png){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
-**ServiceNow** es una plataforma en la nube que ofrece soluciones para la gestión de servicios de soporte técnico (ITSM, por sus siglas en inglés: IT Service Management). Está diseñada para automatizar y optimizar procesos empresariales y de TI, proporcionando una única plataforma que conecta todos los departamentos y flujos de trabajo dentro de una organización.
 
+
+**ServiceNow** es una plataforma en la nube que ofrece soluciones para la gestión de servicios de soporte técnico (ITSM, por sus siglas en inglés: IT Service Management). Está diseñada para automatizar y optimizar procesos empresariales y de *TI*, proporcionando una única plataforma que conecta todos los departamentos y flujos de trabajo dentro de una organización.
+
+~~~
 Originalmente centrada en la gestión de servicios de TI, ServiceNow se ha expandido para cubrir una amplia gama de áreas empresariales, como la gestión de recursos humanos (HR), la gestión de operaciones empresariales (ITOM), la gestión de seguridad (SecOps), el soporte al cliente (CSM), la gestión de proyectos, entre otros.
 Permite a los usuarios realizar solicitudes de servicios (como la provisión de hardware o software) o crear incidencias para reportar malfuncionamiento de aplicaciones y hacer un seguimiento de su estado.
+~~~
 
-**ServiceNow Virtual Agent**  es una plataforma de chatbots basada en inteligencia artificial (IA) que se integra dentro del ecosistema de ServiceNow. El Virtual Agent de ServiceNow es una herramienta potente para empresas que buscan mejorar la atención al cliente, reducir el tiempo de respuesta, y liberar a sus empleados de tareas repetitivas, enfocándose en problemas más complejos que requieren intervención humana.
+**ServiceNow Virtual Agent**  es una plataforma de chatbots basada en inteligencia artificial que se integra dentro del ecosistema de ServiceNow. El *Virtual Agent de ServiceNow* es una herramienta potente para empresas que buscan mejorar la atención al cliente, reducir el tiempo de respuesta, y liberar a sus empleados de tareas repetitivas, enfocándose en problemas más complejos que requieren intervención humana.
 
 <iframe width="560" height="315" src='//players.brightcove.net/5703385908001/default_default/index.html?videoId=6249212996001' frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -63,8 +67,8 @@ También podemos optimizar el uso de recursos mediante la virtualización y la t
 además de establecer indicadores clave de rendimiento (KPIs) específicos para monitorear la huella de carbono y así poder reducirla.
 
 
-![Imagen](./images/gif-chatbot.gif){: width="100%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+![Imagen](./images/gif-chatbot.gif){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
-Si quieres saber más sobre esta IA sobre soporte técnico, dirígete [aquí](https://www.servicenow.com/es/standard/resource-center/data-sheet/ds-virtual-agent.html).
+*Si quieres saber más sobre esta IA sobre soporte técnico, dirígete [aquí](https://www.servicenow.com/es/standard/resource-center/data-sheet/ds-virtual-agent.html).*
 
 [**Índice**](../../README.md){: .btn .btn-primary .float-right}
