@@ -1,4 +1,3 @@
-[**Índice**](/README.md)
 ## Juniper Network
 
 ![Logo](Logo.png)
