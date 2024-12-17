@@ -41,14 +41,14 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 ![Imagen](./images/trello1.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ### 4.2. Desarrollo
-1. **Configuración del Entorno**: Unai Llagostera se encargó de la creación de las carpetas y de la base del manual después de que Carolina creara el repositorio en GitHub y las ramas asignadas a cada uno de los integrantes del equipo. Una vez realizada esta parte las herramientas y el entorno de desarrollo estaban configurados.
+- **Configuración del Entorno**: Unai Llagostera se encargó de la creación de las carpetas y de la base del manual después de que Carolina creara el repositorio en GitHub y las ramas asignadas a cada uno de los integrantes del equipo. Una vez realizada esta parte las herramientas y el entorno de desarrollo estaban configurados.
 
 > Pantallazo Trello 3 de Diciembre 2024. El segundo día ya empezamos con el trabajo individual cada uno en su branch.
 
 ![Imagen](./images/trello2.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
-2. **Investigación y Recolección de Información**: Recopilamos datos sobre la herramienta y aplicaciones de IA relevantes dentro del sector que cada uno tenía asignado.
-3. **Redacción de Contenido**: empezamos a redactar el contenido del manual en Markdown.
+- **Investigación y Recolección de Información**: Recopilamos datos sobre la herramienta y aplicaciones de IA relevantes dentro del sector que cada uno tenía asignado.
+- **Redacción de Contenido**: empezamos a redactar el contenido del manual en Markdown.
 
 > Pantallazo Trello 9 de Diciembre 2024. Empezamos a terminar la redacción de contenido que estábamos llevando a cabo de manera individual.
 
@@ -75,13 +75,14 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 2. **Feedback y Correcciones**: Volvimos a reunirnos para dar feedback, incorporamos el feedback recibido y realizamos las correcciones necesarias.
 
 ### 4.5. Entrega 
-Entrega realizada después de haber revisado y hecho las modificaciones correspondientes en todo el proyecto.
+Entrega realizada después de haber revisado todo el proyecto.
+
+![Imagen](./images/trello5.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ## 5. Diagrama de Flujo
 A continuación se detalla de manera esquematizada el flujo de trabajo que hemos seguido en este proyecto.
 
 ![Imagen](./images/diagramaflujotrabajo.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
-
 
 ## 6. Conclusión
 El manual colaborativo es un recurso que no se actualizará continuamente para incluir las últimas herramientas y aplicaciones de IA aplicadas a la administración de sistemas informáticos ya que se trata de un proyecto con fines educativos para practicar el uso de MarkDown y GitHub. Por lo tanto, puede que en algunos meses la información añadida quede de alguna forma obsoleta.
