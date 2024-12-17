@@ -42,7 +42,7 @@ Los esfuerzos de Juniper para reducir el impacto medioambiental incluyen diseño
 
 # Propuestas para reducir el impacto medioambiental 
 
-## Eficnetización del uso de recursos computacionales
+## Eficienciación del uso de recursos computacionales
 
 Juniper Networks utiliza tecnologías como la virtualización de funciones de red y redes definidas por software para optimizar el uso de infraestructura física. Estas soluciones eliminan redundancias, reducen la necesidad de equipos adicionales y permiten una mejor asignación de recursos computacionales, lo que disminuye el consumo energético. 
 
