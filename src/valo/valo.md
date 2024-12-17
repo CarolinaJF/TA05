@@ -82,6 +82,8 @@ Entrega realizada después de haber revisado todo el proyecto.
 ## 5. Diagrama de Flujo
 A continuación se detalla de manera esquematizada el flujo de trabajo que hemos seguido en este proyecto.
 
+> Pantallazo Trello 17 de Diciembre 2024. Finalización del proyecto.
+
 ![Imagen](./images/diagramaflujotrabajo.png){: width="80%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
 
 ## 6. Conclusión
