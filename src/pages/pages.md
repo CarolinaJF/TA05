@@ -7,7 +7,7 @@ GitHub Pages es una herramienta gratuita que permite a los usuarios alojar sitio
 
 > **⚠️ Advertencia:** GitHub pages tiene **totalmente prohibido** su uso para fines lucrativos.
 
-## 📝 Requistitos
+## 📝 Requisitos
 
 Para poder publicar en pages necesitamos de un usuario en Github, luego tendriamos que crear el repositorio que nos gustaría publicar, dicho repositorio tiene que contener codigo el cual contenga un estructura soportada por el sistema de GitHub, como por ejemplo HTML, CSS... Después en la raiz /ROOT ha de contener como mínimo un archivo que hará la función de index.
 
