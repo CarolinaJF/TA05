@@ -9,7 +9,7 @@ GitHub Pages es una herramienta gratuita que permite a los usuarios alojar sitio
 
 ## 📝 Requisitos
 
-Para poder publicar en pages necesitamos de un usuario en Github, luego tendriamos que crear el repositorio que nos gustaría publicar, dicho repositorio tiene que contener codigo el cual contenga un estructura soportada por el sistema de GitHub, como por ejemplo HTML, CSS... Después en la raiz /ROOT ha de contener como mínimo un archivo que hará la función de index.
+Para poder publicar en pages necesitamos de un usuario en Github, luego tendriamos que crear el repositorio que nos gustaría publicar, dicho repositorio tiene que contener codigo el cual contenga un estructura soportada por el sistema de GitHub, como por ejemplo HTML, CSS... Después en la raíz /ROOT ha de contener como mínimo un archivo que hará la función de index.
 
 ## 👣 Pasos de publicación
 
@@ -19,14 +19,14 @@ Para poder publicar en pages necesitamos de un usuario en Github, luego tendriam
 ![Imagen](./images/sel_pag.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto; margin-top:20px;"}
 **3.** En este punto podremos visualizar el siguiente menu:
 ![Imagen](./images/config_root.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;}
-Debemos seleccionar deploy from a branch y de forma predeterminada dejarlo en la branch main en la carpeta del root (la general). Se recomiendo almacenar todos los archivos dentro de otra carpeta anomenada src y fuera de esta un index/readme que sirva para presentar la web.
+Debemos seleccionar deploy from a branch y de forma predeterminada dejarlo en la branch main en la carpeta del root (la general). Se recomiendo almacenar todos los archivos dentro de otra carpeta denominada src y fuera de esta un index/readme que sirva para presentar la web.
 ![Imagen](./images/org.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;}
 
 ## ✅ Verificación
 
-Para poder verificar que tu pagina se haya publicado correctamente simplemente necesitas esperar unos minutos, en el apartado donde publicamos nuestro repositorio anteriormente se mostrará el siguiente popup con un enlace el cual te redirigirá a tu página web.
+Para poder verificar que tu página se haya publicado correctamente simplemente necesitas esperar unos minutos, en el apartado donde publicamos nuestro repositorio anteriormente se mostrará el siguiente popup con un enlace el cual te redirigirá a tu página web.
 ![Imagen](./images/result_final.png){: width="1000%" align="center" style="display: block; margin-left: auto; margin-right: auto; margin-top:20px;"}
-Una vez se haya generado el enlace al pulsarlo te enviaría a tu nueva pagina, la cual contendra la información que hayas introducido en el en los archivos del respositorio que hayas publicado, siempre y cuando esten todos los datos correctos.
+Una vez se haya generado el enlace al pulsarlo te enviaría a tu nueva página, la cual contendrá la información que hayas introducido en el en los archivos del repositorio que hayas publicado, siempre y cuando estén todos los datos correctos.
 
 ## Extras
 
