@@ -26,7 +26,7 @@ Hemos desarrollado y publicado un manual colaborativo en GitHub sobre diversas h
 
 ## 3. Herramientas utilizadas:
 Lista de herramientas y tecnologías utilizadas en el proyecto. 
-- **Lenguajes de programación**: Markdown, HTML
+- **Lenguajes de programación**: Markdown
 - **Plataformas**: GitHub
 - **Herramientas de gestión**: Trello
 
