@@ -149,5 +149,5 @@ además de establecer indicadores clave de rendimiento (KPIs) específicos para 
 
 ---
 
-[⬆️**Índice**](../../README.md){: .btn .btn-primary .float-right}
+[**Índice**](../../README.md){: .btn .btn-primary .float-right}  
 

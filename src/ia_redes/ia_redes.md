@@ -1,4 +1,3 @@
-[**Índice**](/README.md)
 ## Juniper Network
 
 ![Logo](Logo.png)
@@ -55,4 +54,6 @@ Juniper se compromete con la sostenibilidad energética integrando opciones de d
 
 Para abordar la generación de residuos electrónicos, Juniper implementa programas de reciclaje que permiten a los clientes devolver equipos al final de su vida útil para ser reacondicionados o reciclados.
 
-[**Índice**](/README.md)
+---
+
+[**Índice**](../../README.md){: .btn .btn-primary .float-right}  
