@@ -25,7 +25,7 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 
 ## 📞 Aplicaciones 💬
 
-- **📄 Respuesta automáticas basadas en árticulos existentes**: puede responder preguntas frecuentes de los usuarios relacionadas con productos, servicios o problemas técnicos sin intervención humana. Por ejemplo, puede gestionar solicitudes de soporte relacionadas con contraseñas, incidencias técnicas o problemas con aplicaciones.
+- **📄 Respuesta automáticas basadas en artículos existentes**: puede responder preguntas frecuentes de los usuarios relacionadas con productos, servicios o problemas técnicos sin intervención humana. Por ejemplo, puede gestionar solicitudes de soporte relacionadas con contraseñas, incidencias técnicas o problemas con aplicaciones.
 
 - **📋 Creación y gestión de incidencias**: crea tickets automáticamente en sistemas de gestión de incidentes y solicitudes cuando un usuario reporta un problema. También puede asignar tareas y hacer seguimientos sin intervención manual.
 
@@ -33,7 +33,7 @@ Permite a los usuarios realizar solicitudes de servicios (como la provisión de 
 
 - **📆 Disponible 24/7 y personalización de respuestas**: utiliza aprendizaje automático y procesamiento de lenguaje natural (NLP) para personalizar las interacciones y ofrecer respuestas más precisas y útiles. Además está disponible 24/7, por lo tanto puede crear incidencias y resolverlas.
 
-- **🛠️ Resolución de incidencias**: es capaz de resolver de problemas comunes de TI, como restablecimiento de contraseñas o problemas con el hardware.
+- **🛠️ Resolución de incidencias**: es capaz de resolver problemas comunes de TI, como restablecimiento de contraseñas o problemas con el hardware.
 
 - **🤝 Atención al cliente**: ofrece respuestas rápidas a consultas frecuentes, reduciendo la carga sobre los trabajadores encargados de estas tareas.
 
