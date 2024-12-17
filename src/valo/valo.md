@@ -57,8 +57,8 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 ### 4.3. Integración
 1. **Preparación del Entorno de Producción**: Hicimos varias pull request, después investigamos cómo publicar nuestro proyecto en GitHub Pages.
 
-2. **Despliegue**: Una vez publicado nuestro proyecto en GitHub Pages decidimos qué cambios implementaríamos. Uno de los cambios más decisivos fue si era realmente necesario introducir un botón que llevara al inicio ya que el propio título del proyecto nos proporcionaba el mismo funcionamiento.
-3. **Actualización de la Documentación del proyecto**: Actualizamos las tareas que teníamos asignadas en Trello y redifinimos cómo entregaríamos el proyecto. De tal forma que decidimos crear dos páginas suplementarias que explicaran cómo realizamos la publicación de este proyecto en Pages y el flujo de trabajo de este proyecto.
+2. **Despliegue**: Una vez publicado nuestro proyecto en GitHub Pages decidimos qué cambios implementaríamos. Uno de los cambios más decisivos fue si era realmente necesario introducir un botón que llevará al inicio ya que el propio título del proyecto nos proporcionaba el mismo funcionamiento.
+3. **Actualización de la Documentación del proyecto**: Actualizamos las tareas que teníamos asignadas en Trello y redefinimos cómo entregaríamos el proyecto. De tal forma que decidimos crear dos páginas suplementarias que explicaran cómo realizamos la publicación de este proyecto en Pages y el flujo de trabajo de este proyecto.
 4. **Integración de Contenido**: Integramos las contribuciones individuales que cada uno había hecho en su propia rama en la rama main del repositorio de GitHub.
 
 > Pantallazo Trello 10 de Diciembre 2024. En este paso también nos dimos cuenta de que había que añadir algunas funcionalidades más por eso añadimos tareas como añadir progresión Trello en markdown, la conclusión/pie de página que sería añadida también a la misma página.También integramos los cambios individuales a la rama main.
