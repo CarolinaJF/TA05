@@ -96,7 +96,7 @@ además de establecer indicadores clave de rendimiento (KPIs) específicos para 
 
 ## Curiosidades
 
-1. Si quisieramos crear un script de Javascript que nos dijera el estado de la incidencia sería así. 
+1. Si quisiéramos crear un script de Javascript que nos dijera el estado de la incidencia sería así. 
 ~~~
 (function execute(inputs, outputs) {
     var incidentNumber = inputs.incidentNumber || "";
