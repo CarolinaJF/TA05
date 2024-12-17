@@ -75,7 +75,7 @@ Lista de herramientas y tecnologías utilizadas en el proyecto.
 2. **Feedback y Correcciones**: Volvimos a reunirnos para dar feedback, incorporamos el feedback recibido y realizamos las correcciones necesarias.
 
 ### 4.5. Entrega 
-Entrega realizada después de haber revisado todo el proyecto.
+Entrega realizada después de haber revisado y hecho las modificaciones correspondientes en todo el proyecto.
 
 ## 5. Diagrama de Flujo
 A continuación se detalla de manera esquematizada el flujo de trabajo que hemos seguido en este proyecto.
