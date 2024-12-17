@@ -112,7 +112,7 @@ además de establecer indicadores clave de rendimiento (KPIs) específicos para 
 })(inputs, outputs);
 ~~~
 
-2. Si tuvieramos que crear una conversación para restablecer contraseña
+2. Si tuviéramos que crear una conversación para restablecer contraseña
 
 ~~~
 (function execute(inputs, outputs) {
